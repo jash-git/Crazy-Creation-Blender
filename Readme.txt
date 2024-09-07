@@ -7,8 +7,8 @@
 	http://qr20.cn/EJTdYH [疯狂造物Blender_02_01_软件核心建模工具（2）]
 	http://qr20.cn/Bh8Ddr [疯狂造物Blender_02_01_软件核心建模工具（3）]
 	http://qr20.cn/C2KLYb [疯狂造物Blender_02_02_数字雕刻 01]
-	http://qr20.cn/DKNheI
-	http://qr20.cn/DsC6gK
+	http://qr20.cn/DKNheI [疯狂造物Blender_02_02_数字雕刻 02]
+	http://qr20.cn/DsC6gK [疯狂造物Blender_02_02_数字雕刻 03]
 	http://qr20.cn/Fq3UwD
 	http://qr20.cn/FmFlug
 	http://qr20.cn/E0l3NL
