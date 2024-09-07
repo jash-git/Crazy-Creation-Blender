@@ -1,12 +1,12 @@
 影片:
 	http://qr20.cn/Acl7dR [疯狂造物系列教程 Blender_00_课程介绍]
 	http://qr20.cn/BERouG [疯狂造物Blender_01_01_Blender软件下载与安装]
-	http://qr20.cn/E9Cbze
-	http://qr20.cn/F3NkJp
-	http://qr20.cn/ACPyXa
-	http://qr20.cn/EJTdYH
-	http://qr20.cn/Bh8Ddr
-	http://qr20.cn/C2KLYb
+	http://qr20.cn/E9Cbze [疯狂造物Blender_01_02_Blender软件界面介绍]
+	http://qr20.cn/F3NkJp [疯狂造物Blender_01_03_Blender软件基本操作]
+	http://qr20.cn/ACPyXa [疯狂造物Blender_02_01_软件核心建模工具（1）]
+	http://qr20.cn/EJTdYH [疯狂造物Blender_02_01_软件核心建模工具（2）]
+	http://qr20.cn/Bh8Ddr [疯狂造物Blender_02_01_软件核心建模工具（3）]
+	http://qr20.cn/C2KLYb [疯狂造物Blender_02_02_数字雕刻 01]
 	http://qr20.cn/DKNheI
 	http://qr20.cn/DsC6gK
 	http://qr20.cn/Fq3UwD
