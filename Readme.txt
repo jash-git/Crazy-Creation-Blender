@@ -1,6 +1,6 @@
 影片:
 	http://qr20.cn/Acl7dR [疯狂造物系列教程 Blender_00_课程介绍]
-	http://qr20.cn/BERouG
+	http://qr20.cn/BERouG [疯狂造物Blender_01_01_Blender软件下载与安装]
 	http://qr20.cn/E9Cbze
 	http://qr20.cn/F3NkJp
 	http://qr20.cn/ACPyXa
