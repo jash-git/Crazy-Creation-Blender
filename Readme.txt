@@ -9,9 +9,9 @@
 	http://qr20.cn/C2KLYb [疯狂造物Blender_02_02_数字雕刻 01]
 	http://qr20.cn/DKNheI [疯狂造物Blender_02_02_数字雕刻 02]
 	http://qr20.cn/DsC6gK [疯狂造物Blender_02_02_数字雕刻 03]
-	http://qr20.cn/Fq3UwD
-	http://qr20.cn/FmFlug
-	http://qr20.cn/E0l3NL
+	http://qr20.cn/Fq3UwD [疯狂造物Blender_02_03_展UV]
+	http://qr20.cn/FmFlug [疯狂造物Blender_02_03_如何设置光照]
+	http://qr20.cn/E0l3NL [疯狂造物Blender_02_03_摄像机、镜头语言与渲染器.mp4]
 	http://qr20.cn/AeRVMT
 	http://qr20.cn/BfeW6r
 	http://qr20.cn/AS1qV8
