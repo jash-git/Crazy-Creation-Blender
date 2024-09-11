@@ -14,10 +14,10 @@
 	http://qr20.cn/E0l3NL [疯狂造物Blender_02_03_摄像机、镜头语言与渲染器]
 	http://qr20.cn/AeRVMT [疯狂造物Blender_02_04_案例制作_酒桶]
 	http://qr20.cn/BfeW6r [疯狂造物Blender_02_05_动画制作入门]
-	http://qr20.cn/AS1qV8
-	http://qr20.cn/EaJAMT
-	http://qr20.cn/FaerhI
-	http://qr20.cn/DkM94d
+	http://qr20.cn/AS1qV8 [疯狂造物Blender_03_01_花栗鼠先生（建模）]
+	http://qr20.cn/EaJAMT [疯狂造物Blender_03_01_花栗鼠先生（渲染）]
+	http://qr20.cn/FaerhI [疯狂造物Blender_03_02_超级战斧（建模）]
+	http://qr20.cn/DkM94d [疯狂造物Blender_03_02_超级战斧（渲染）]
 	http://qr20.cn/AlGxUg
 	http://qr20.cn/FQTIiS
 	http://qr20.cn/FQTIiS
