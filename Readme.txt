@@ -18,9 +18,8 @@
 	http://qr20.cn/EaJAMT [疯狂造物Blender_03_01_花栗鼠先生（渲染）]
 	http://qr20.cn/FaerhI [疯狂造物Blender_03_02_超级战斧（建模）]
 	http://qr20.cn/DkM94d [疯狂造物Blender_03_02_超级战斧（渲染）]
-	http://qr20.cn/AlGxUg
-	http://qr20.cn/FQTIiS
-	http://qr20.cn/FQTIiS
+	http://qr20.cn/AlGxUg [疯狂造物Blender_03_03_阳光森林（建模）]
+	http://qr20.cn/FQTIiS [疯狂造物Blender_03_03_阳光森林（渲染）]
 	http://qr20.cn/Azu0UN
 	http://qr20.cn/DhizCf
 	http://qr20.cn/A7EiVO
