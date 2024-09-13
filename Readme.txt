@@ -75,3 +75,4 @@
 
 軟體:
 	https://download.blender.org/release/Blender2.81/ [2.81a]
+	https://www.tiertime.com/software/ [2.6.75.627]
