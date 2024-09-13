@@ -23,9 +23,9 @@
 	http://qr20.cn/BB0DbP [疯狂造物Blender_03_04_茶壶（建模）]
 	http://qr20.cn/Azu0UN [疯狂造物Blender_03_04_茶壶（渲染）]
 	http://qr20.cn/DhizCf [疯狂造物Blender_03_05_小怪物（建模）]
-	http://qr20.cn/A7EiVO
-	http://qr20.cn/CoHfdY
-	http://qr20.cn/A7rpCR
+	http://qr20.cn/A7EiVO [疯狂造物Blender_03_05_小怪物（渲染）]
+	http://qr20.cn/CoHfdY [疯狂造物Blender_04_01_主基地（建模）]
+	http://qr20.cn/A7rpCR [疯狂造物Blender_04_02_资源库（建模）]
 	http://qr20.cn/AIx8tY
 	http://qr20.cn/BiPmOE
 	http://qr20.cn/DYGVhe
