@@ -29,8 +29,8 @@
 	http://qr20.cn/AIx8tY [疯狂造物Blender_04_03_资源采集器（建模）]
 	http://qr20.cn/BiPmOE [疯狂造物Blender_04_06_多功能车-上（建模）]
 	http://qr20.cn/DYGVhe [疯狂造物Blender_04_06_多功能车-下（建模）]
-	http://qr20.cn/CZv9HD
-	http://qr20.cn/CpFt36
+	http://qr20.cn/CZv9HD [疯狂造物Blender_04_07_多功能运输机-上（建模）]
+	http://qr20.cn/CpFt36 [疯狂造物Blender_04_07_多功能运输机-下（建模）]
 	http://qr20.cn/CEa1qt
 	http://qr20.cn/E36g0O
 	http://qr20.cn/DMSW8V
