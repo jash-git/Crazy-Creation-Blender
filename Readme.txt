@@ -60,11 +60,11 @@
 	http://qr20.cn/F4lDId [疯狂造物Blender_05_20 创建骨骼]
 	http://qr20.cn/F9VL2g [疯狂造物Blender_05_21 骨骼绑定与刷权重]
 	http://qr20.cn/Fs6XIQ [疯狂造物Blender_06_01 课程介绍]
-	http://qr20.cn/Aebot1 []
+	http://qr20.cn/Aebot1 [疯狂造物Blender_06_02 头]
 	http://qr20.cn/CfXW9z [疯狂造物Blender_06_03 头发]
-	http://qr20.cn/DDOWr4
-	http://qr20.cn/DlD1bg
-	http://qr20.cn/D1jSJu
+	http://qr20.cn/DDOWr4 [疯狂造物Blender_06_04 上衣]
+	http://qr20.cn/DlD1bg [疯狂造物Blender_06_05 手臂]
+	http://qr20.cn/D1jSJu [疯狂造物Blender_06_06 裙子 腿]
 	http://qr20.cn/CoPQwk
 	http://qr20.cn/ALlmpD
 	http://qr20.cn/BHTApe
