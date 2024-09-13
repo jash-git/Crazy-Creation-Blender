@@ -26,9 +26,9 @@
 	http://qr20.cn/A7EiVO [疯狂造物Blender_03_05_小怪物（渲染）]
 	http://qr20.cn/CoHfdY [疯狂造物Blender_04_01_主基地（建模）]
 	http://qr20.cn/A7rpCR [疯狂造物Blender_04_02_资源库（建模）]
-	http://qr20.cn/AIx8tY
-	http://qr20.cn/BiPmOE
-	http://qr20.cn/DYGVhe
+	http://qr20.cn/AIx8tY [疯狂造物Blender_04_03_资源采集器（建模）]
+	http://qr20.cn/BiPmOE [疯狂造物Blender_04_06_多功能车-上（建模）]
+	http://qr20.cn/DYGVhe [疯狂造物Blender_04_06_多功能车-下（建模）]
 	http://qr20.cn/CZv9HD
 	http://qr20.cn/CpFt36
 	http://qr20.cn/CEa1qt
