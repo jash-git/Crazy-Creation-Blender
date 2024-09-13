@@ -55,8 +55,8 @@
 	https://qr17.cn/BtKp71 [疯狂造物Blender_05_16_03 裙甲（侧）]
 	http://qr20.cn/FfOM5K [疯狂造物Blender_05_16_04 背包]
 	https://qr17.cn/CcrZBz [疯狂造物Blender_05_17 盾牌]
-	http://qr20.cn/F0zqBa []
-	http://qr20.cn/DOgzyR
+	http://qr20.cn/F0zqBa [疯狂造物Blender_05_18 渲染准备]
+	http://qr20.cn/DOgzyR [疯狂造物Blender_05_19 着色渲染]
 	http://qr20.cn/F4lDId
 	http://qr20.cn/F9VL2g
 	http://qr20.cn/Fs6XIQ
