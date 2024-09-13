@@ -65,13 +65,13 @@
 	http://qr20.cn/DDOWr4 [疯狂造物Blender_06_04 上衣]
 	http://qr20.cn/DlD1bg [疯狂造物Blender_06_05 手臂]
 	http://qr20.cn/D1jSJu [疯狂造物Blender_06_06 裙子 腿]
-	http://qr20.cn/CoPQwk
-	http://qr20.cn/ALlmpD
-	http://qr20.cn/BHTApe
-	http://qr20.cn/DDRIzN
-	http://qr20.cn/EgQ1Nk
-	http://qr20.cn/CYoinN
-	http://qr20.cn/FIKrH2
+	http://qr20.cn/CoPQwk [疯狂造物Blender_06_07蝴蝶结 活动关节 猫耳朵]
+	http://qr20.cn/ALlmpD [疯狂造物Blender_06_08 展UV]
+	http://qr20.cn/BHTApe [疯狂造物Blender_6_09 绘制头部贴图 上材质]
+	http://qr20.cn/DDRIzN [疯狂造物Blender_06_10 绘制全身贴图 上材质]
+	http://qr20.cn/EgQ1Nk [疯狂造物Blender_06_11 骨骼绑定]
+	http://qr20.cn/CYoinN [疯狂造物Blender_06_12 制作路径动画]
+	http://qr20.cn/FIKrH2 [疯狂造物Blender_7 Blender 和 3D打印]
 
 軟體:
 	https://download.blender.org/release/Blender2.81/ [2.81a]
