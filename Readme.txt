@@ -42,10 +42,10 @@
 	http://qr20.cn/AOrcoX [疯狂造物Blender_05_05 颈椎]
 	http://qr20.cn/BulrNc [疯狂造物Blender_05_06 胸甲轮廓]
 	http://qr20.cn/B61Bez [疯狂造物Blender_05_07 胸甲细节制作]
-	http://qr20.cn/CvWYSC
-	http://qr20.cn/El4ixF
-	http://qr20.cn/BWiuDN
-	http://qr20.cn/E25QEV
+	http://qr20.cn/CvWYSC [疯狂造物Blender_05_08 护颈]
+	http://qr20.cn/El4ixF [疯狂造物Blender_05_09 裙甲 胯部]
+	http://qr20.cn/BWiuDN [疯狂造物Blender_05_10 大腿]
+	http://qr20.cn/E25QEV [疯狂造物Blender_05_11 小腿]
 	http://qr20.cn/DXBviM
 	http://qr20.cn/B8VjuB
 	http://qr20.cn/ECxZIk
