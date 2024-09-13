@@ -27,16 +27,16 @@
 	http://qr20.cn/CoHfdY [疯狂造物Blender_04_01_主基地（建模）]
 	http://qr20.cn/A7rpCR [疯狂造物Blender_04_02_资源库（建模）]
 	http://qr20.cn/AIx8tY [疯狂造物Blender_04_03_资源采集器（建模）]
+	http://qr20.cn/CEa1qt [疯狂造物Blender_04_05_雷达（建模）]	
 	http://qr20.cn/BiPmOE [疯狂造物Blender_04_06_多功能车-上（建模）]
 	http://qr20.cn/DYGVhe [疯狂造物Blender_04_06_多功能车-下（建模）]
 	http://qr20.cn/CZv9HD [疯狂造物Blender_04_07_多功能运输机-上（建模）]
 	http://qr20.cn/CpFt36 [疯狂造物Blender_04_07_多功能运输机-下（建模）]
-	http://qr20.cn/CEa1qt
-	http://qr20.cn/E36g0O
-	http://qr20.cn/DMSW8V
-	http://qr20.cn/FRG9t0
-	http://qr20.cn/AghiD4
-	http://qr20.cn/CYUkd3
+	http://qr20.cn/E36g0O [疯狂造物Blender_04_08_场景渲染]
+	http://qr20.cn/DMSW8V [疯狂造物Blender_05_01_课程介绍]
+	http://qr20.cn/FRG9t0 [疯狂造物Blender_05_02_导入背景图]
+	http://qr20.cn/AghiD4 [疯狂造物Blender_05_03_头部轮廓]
+	http://qr20.cn/CYUkd3 [疯狂造物Blender_05_04_头部信号接收器 扩音器]
 	http://qr20.cn/Cw6d7i
 	http://qr20.cn/AOrcoX
 	http://qr20.cn/B61Bez
