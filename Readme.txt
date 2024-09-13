@@ -57,10 +57,11 @@
 	https://qr17.cn/CcrZBz [疯狂造物Blender_05_17 盾牌]
 	http://qr20.cn/F0zqBa [疯狂造物Blender_05_18 渲染准备]
 	http://qr20.cn/DOgzyR [疯狂造物Blender_05_19 着色渲染]
-	http://qr20.cn/F4lDId
-	http://qr20.cn/F9VL2g
-	http://qr20.cn/Fs6XIQ
-	http://qr20.cn/CfXW9z
+	http://qr20.cn/F4lDId [疯狂造物Blender_05_20 创建骨骼]
+	http://qr20.cn/F9VL2g [疯狂造物Blender_05_21 骨骼绑定与刷权重]
+	http://qr20.cn/Fs6XIQ [疯狂造物Blender_06_01 课程介绍]
+	http://qr20.cn/Aebot1 []
+	http://qr20.cn/CfXW9z [疯狂造物Blender_06_03 头发]
 	http://qr20.cn/DDOWr4
 	http://qr20.cn/DlD1bg
 	http://qr20.cn/D1jSJu
